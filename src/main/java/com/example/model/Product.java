@@ -13,7 +13,7 @@ public class Product {
 	private int stock;
 	private String currency;
 	
-	@Column(unique=true)
+
 	private String sku;
 	public String getSku() {
 		return this.sku;
