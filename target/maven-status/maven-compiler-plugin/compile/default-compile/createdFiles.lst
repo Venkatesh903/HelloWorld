@@ -1,1 +1,5 @@
 com\example\HelloWorld\HelloWorldApplication.class
+com\example\model\Product.class
+com\example\controller\ProductController.class
+com\example\service\ProductService.class
+com\example\repository\ProductRepository.class
